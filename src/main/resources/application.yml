@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: EN,dog
+    active: EN,dog,qa
 guru:
   userName: yaml
   password: 123567

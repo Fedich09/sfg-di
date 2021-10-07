@@ -1,0 +1,4 @@
+guru:
+  userName: dev-user-yaml
+  password: 123567-yaml
+  jdbcUrl: someUrlForYml-yaml

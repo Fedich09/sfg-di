@@ -1,0 +1,4 @@
+guru:
+  userName: yaml-qa
+  password: 123567-qa
+  jdbcUrl: someUrlForYml-qa
